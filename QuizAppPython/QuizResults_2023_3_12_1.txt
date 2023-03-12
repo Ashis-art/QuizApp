@@ -1,0 +1,8 @@
+*******************************************
+RESULTS for Ashis
+Date: 2023-03-12 12:22:00.201162
+ELAPSED TIME: 0:00:08
+QUESTIONS: 4 out of 4 correct
+SCORE: 28 points of possible 28
+*******************************************
+
